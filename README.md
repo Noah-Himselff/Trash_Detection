@@ -17,8 +17,13 @@ Fine-Tuning: YOLOv8 was fine-tuned on the annotated dataset for 100 epochs, resu
 
 **Model Performance**
 mAP 50: 73.5%
+
 Recall (R): 68.6%
+
 Precision (Box): 74.8%
+
+**License**
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contact**
 For any inquiries or collaborations, feel free to contact [hosseinseyyedi2038@gmail.com].
